@@ -7,4 +7,4 @@ I used Vue and bootstrap.
 Use npm install to install Local Packages - both client and server.
 
 
-![image](https://pawelkossowski91.github.io/ReactToDoApp/ReactReadMe.png)
+![image](https://pawelkossowski91.github.io/blog/1.png)
