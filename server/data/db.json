@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "SkVdLauqf",
+      "slug": "tytul-wpisu-pierwszego",
+      "title": "Tytuł wpisu pierwszego",
+      "date": "08-10-2019",
+      "content": "<p>Treść wpisu pierwszego.</p>"
+    },
+    {
+      "id": "HaDBxhuap",
+      "slug": "tytul-wpisu-drugiego",
+      "title": "Tytuł wpisu drugiego",
+      "date": "08-10-2019",
+      "content": "<p>Treść wpisu drugiego.</p>"
+    },
+    {
+      "id": "4",
+      "slug": "tytul-wpisu-3",
+      "title": "Tytuł wpisu nr 3",
+      "date": "08-10-2019",
+      "content": "<p>Treść wpisu 3.</p>"
+    },
+    {
+      "id": "3",
+      "slug": "tytul-wpisu-4",
+      "title": "Tytuł wpisu nr 4",
+      "date": "08-10-2019",
+      "content": "<p>Treść wpisu drugiego.</p>"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2a$10$C2htcDOb1dNlwk6nSFHiDuupvz19xfCVvfdMM3nTmyR6BbOKfRRTO"
+    }
+  ]
+}
